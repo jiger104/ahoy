@@ -36,8 +36,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"canvas-confetti": "^1.6.0",
 		"clsx": "^1.2.1",
+		"svelte-confetti": "^1.2.2",
 		"svelte-french-toast": "^1.0.3"
 	}
 }
